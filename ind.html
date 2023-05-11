@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script defer src="app.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+        <select onchange="img(this)"> 
+       <option value="">Images</option>
+       <option value="./Images/b.png">Moon</option>
+       <option value="./Images/f1.png">Sun</option>
+        </select>
+
+
+        <button id="btn">COLOR</button>
+        <p id="color-code"></p>
+        <h1>Jai Shree Ram Jai Shree Ram</h1>
+
+        <select onchange="textColor(this)">
+            <option value="white smoke">Change text color</option>
+            <option value="orange">pink</option>
+            <option value="blue">blue</option>
+            <option value="yellowgreen">green</option>
+            <option value="aqua">aqua</option>
+            <option value="black">black</option>
+            <option value="indigo">violet</option>
+        </select>
+
+        <select onchange="backgroundColor(this)">
+        <option value="white">Change Bg</option>
+        <option value="rgb(234,123,23)">pink</option>
+        <option value="skyblue">blue</option>
+        <option value="yellowgreen">green</option>
+        <option value="aqua">red</option>
+        <option value="indigo">violet</option>
+        <option value="black">black</option>
+        
+        
+        </select>
+
+    </div>
+</body>
+</html>

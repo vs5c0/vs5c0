@@ -1,0 +1,48 @@
+
+
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+
+
+}
+
+
+.container{
+    display: grid;
+    place-items: center;
+    text-size-adjust: 2px;
+ 
+
+    width: 500px;
+    height: 700px; 
+    border: 10px solid rgb(27, 151, 240);
+    border-radius: 10% 10%;
+}
+
+#btn{
+    background-image:linear-gradient(to right, 
+    #4ecb80, 
+    #1c6fc2);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    padding-left: 20px;    
+    padding-right: 20px;
+    border-style: groove;
+   margin-top: 200px;
+
+}
+
+select{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+    padding-right: 10px; 
+    border:5px solid #1c6fc2;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    background-image: radial-gradient( rgb(176, 58, 200),rgb(126, 173, 206));
+}
