@@ -1,1 +1,1 @@
-I'm a Computer Science Student & Passinate on Technical Field
+I'm a Computer Science Student & Passinate.
