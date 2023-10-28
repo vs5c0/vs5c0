@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Portfolio**
 
-- 📫 How to reach me **vickysai2172@gmail.com**
+- 📫 How to reach me **venkatsai7722@gmail.com**
 
 - ⚡ Fun fact **see...**
 
