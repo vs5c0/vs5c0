@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Online Education System**
+- 🔭 I’m currently learing the  **Advance Java and Python**
 
 - 🌱 I’m currently learning **Android Development**
 
