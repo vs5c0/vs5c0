@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently learing the  **Advance Java and Python**
+- 🔭 I’m currently learning on the  **Advance Java and Python**
 
 - 🌱 I’m currently learning **Android Development**
 
