@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Venkat Sai.
  Im currently purusing my Bachelors of Technology in Computer Science.</h1>
-<h3 align="center">Im passionate on Web development and Android Development.</h3>
+<h3 align="center">Im passionate on Web development and Android Development & more Interested on new tech Stuff</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vs5c0" alt="vs5c0" /></a> </p>
