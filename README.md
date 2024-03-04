@@ -1,5 +1,5 @@
-<h1 align="center">Heyy.. Myself Venkat Sai.
- Im currently purusing my Bachelors of Technology in Computer Science </h1>
+<h2 align="center">Heyy.. Myself Venkat Sai.
+ Im currently purusing my Bachelors of Technology in Computer Science </h22>
 <h3 align="center">Im passionate on Web development and Android Development & more Interested on new tech Stuff</h3>
 
 
