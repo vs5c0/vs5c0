@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning on  **Advance Java and Python**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **React JS**
 
 - 🤝 I’m looking for help with **Portfolio**
 
